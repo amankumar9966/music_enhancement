@@ -1,0 +1,7 @@
+
+streamlit
+demucs
+numpy
+soundfile
+matplotlib
+
